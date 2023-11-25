@@ -1,0 +1,2 @@
+s = 'Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are'
+print(f'{s[:30]}\n{s[31:57]}\n{s[58:85]}\n{s[86:112]}\n{s[113:143]}\n{s[144:]}\n')
